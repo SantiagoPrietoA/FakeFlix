@@ -5,7 +5,7 @@ import Search from "../Search/Search.jsx";
 const Header = () => {
   return (
     <header>
-      <div className="contenedor">
+      <div className="Container">
         <h2 className="logotipo">FAKEFLIX</h2>
         <Search></Search>
       </div>

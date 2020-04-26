@@ -10,7 +10,7 @@ const Search = () => {
   };
 
   return (
-    <form action="">
+    <form className="Search">
       <input type="search" onKeyDown={handleKeyDown} />
       <i className="fa fa-search"></i>
     </form>

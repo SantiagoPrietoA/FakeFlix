@@ -1,9 +1,10 @@
 body {
   background: black;
   font-family: "Open Sans", sans-serif;
+  overflow-x: hidden;
 }
 
-.contenedor {
+.Container {
   max-width: 90%;
   margin: auto;
 }
